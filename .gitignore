@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+auto_idea.py
+geckodriver.exe
+geckodriver.log
+IEDriverServer.exe
+sec.py
